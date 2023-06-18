@@ -6,7 +6,7 @@ import re
 import numpy as np
 import pandas as pd
 
-__author__ = 'Cedric Zhuang'
+__author__ = 'X'
 
 
 def wrap(df, index_column=None):
